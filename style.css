@@ -1,0 +1,19 @@
+body{ text-align: center; 
+    background: linear-gradient( #4287f5 0%,#4bf542 100%); 
+}
+img{
+    width:150;
+    height:150;
+    border-radius: 60%;
+}
+h1 {
+    font-family: 'Cormorant SC', serif;
+}
+h2 {
+    font-family: 'Cedarville Cursive', cursive;
+}
+footer {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+  }
